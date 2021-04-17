@@ -16,18 +16,13 @@
 * [Links Contato](#links-contato)
 * [Licença](#licença)
 
-<br>
-<h2 align="center"> 
-	🚧  Busca Git 🚀 Em construção...  🚧
-</h2>
-<br>
-
 # Descrição
 Aplicação desenvolvida utilizando a API do <a href="https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api">GitHub</a>, para realizar busca de usuários, utilizando a lib <a href="https://github.com/axios/axios">axios</a> para requisições e respostas.
 
 ## Features:
 - [x] Requisiçao a API<br>
 - [x] Responsividade<br>
+- [x] Validação de dados<br>
 
 # Techs: 
 - HTML
@@ -36,7 +31,7 @@ Aplicação desenvolvida utilizando a API do <a href="https://docs.github.com/pt
 - axios(lib)
 
 # Design:
-- O modelo final para desktop está disponível na pasta `./design`
+- O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
 ## Cores:
 - #323236<br>
