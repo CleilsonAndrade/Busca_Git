@@ -44,7 +44,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - #28b4d2<br>
 
 ## Tipo de fonte:
-- Avenir, Helvetica, Arial, sans-serif
+- **Avenir, Helvetica, Arial, sans-serif**
 
 # Instalação:
 ```bash
