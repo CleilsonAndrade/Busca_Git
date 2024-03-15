@@ -8,23 +8,22 @@
 
 * [Descrição](#descrição)
 * [Features](#features) 
-* [Techs](#techs)
-  * [Libs](#libs)
+* [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
-  * [Tipo de fonte](#tipo-de-fonte)
+  * [Tipo de fonte](#fontes)
 * [Instalação](#instalação)
 * [Licença](#licença)
 
-# 🚀 Descrição
+# 📃 Descrição
 Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
 
 ## Features:
-- [x] Requisiçao a API<br>
+- [x] Requisição a API<br>
 - [x] Responsividade<br>
 - [x] Validação de dados<br>
 
-# 💻 Tecnologias: 
+# 💻 <span id="tecnologias">Tecnologias:</span>
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -33,24 +32,24 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 # 🎨 Design:
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
-- Cores:<br>
+- <span id="cores">Cores:<br></span>
 #323236<br>
 #dadce7<br>
 #969696<br>
 #4091dd<br>
 #28b4d2<br>
 
-- Tipo de fonte:<br>
+- <span id="fontes">Tipo de fonte:<br></span>
  Avenir, Helvetica, Arial, sans-serif
 
-# Instalação:
+# 🚀 <span id="instalação">Instalação:</span>
 ```bash
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/Busca_Git
   $ cd ./Busca_Git
 ```
 
-## 📝 Licença
+# 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
@@ -59,6 +58,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <p align="center">
   Feito com 💜 by CleilsonAndrade
 </p>
-
-<br />
-<br />
