@@ -21,7 +21,8 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 ## Features
 - [x] Requisição a API<br>
 - [x] Responsividade<br>
-- [x] Validação de dados<br>
+- [x] Validação de usuários<br>
+- [x] Consulta e exibição dos dados do usuários<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
