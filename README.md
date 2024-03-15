@@ -4,7 +4,7 @@
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
-## Índice
+## 📒 Índice
 
 * [Descrição](#descrição)
 * [Features](#features) 
