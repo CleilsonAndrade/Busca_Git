@@ -15,7 +15,7 @@
 * [Instalação](#instalação)
 * [Licença](#licença)
 
-# 📃 Descrição
+# 📃 <span id="descrição">Descrição</span>
 Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
 
 ## Features
@@ -23,7 +23,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - [x] Responsividade<br>
 - [x] Validação de dados<br>
 
-# 💻 <span id="tecnologias">Tecnologias:</span>
+# 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -49,7 +49,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
   $ cd ./Busca_Git
 ```
 
-# 📝 Licença
+# 📝 <span id="licença">Licença</span>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
