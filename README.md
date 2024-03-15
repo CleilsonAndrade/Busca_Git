@@ -18,7 +18,7 @@
 # 📃 Descrição
 Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
 
-## Features:
+## Features
 - [x] Requisição a API<br>
 - [x] Responsividade<br>
 - [x] Validação de dados<br>
@@ -29,20 +29,20 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - **JavaScript**
 - **axios**
 
-# 🎨 Design:
+# 🎨 Design
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
-- <span id="cores">Cores:<br></span>
+- <span id="cores">Cores<br></span>
 #323236<br>
 #dadce7<br>
 #969696<br>
 #4091dd<br>
 #28b4d2<br>
 
-- <span id="fontes">Tipo de fonte:<br></span>
+- <span id="fontes">Tipo de fonte<br></span>
  Avenir, Helvetica, Arial, sans-serif
 
-# 🚀 <span id="instalação">Instalação:</span>
+# 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/Busca_Git
