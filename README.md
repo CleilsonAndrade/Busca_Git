@@ -4,11 +4,6 @@
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
----
-<h3 align="center">
-  <a href="https://cleilsonandrade.github.io/Busca_Git/">Acessar demonstração</a>
-</h3>
-
 ## Índice
 
 * [Descrição](#descrição)
@@ -19,10 +14,9 @@
   * [Cores](#cores)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
-* [Links Contato](#links-contato)
 * [Licença](#licença)
 
-# Descrição
+# 🚀 Descrição
 Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
 
 ## Features:
@@ -30,26 +24,24 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - [x] Responsividade<br>
 - [x] Validação de dados<br>
 
-# Techs: 
+# 💻 Tecnologias: 
 - **HTML**
 - **CSS**
 - **JavaScript**
-
-## Libs:
 - **axios**
 
-# Design:
+# 🎨 Design:
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
-## Cores:
-- #323236<br>
-- #dadce7<br>
-- #969696<br>
-- #4091dd<br>
-- #28b4d2<br>
+- Cores:<br>
+#323236<br>
+#dadce7<br>
+#969696<br>
+#4091dd<br>
+#28b4d2<br>
 
-## Tipo de fonte:
-- **Avenir, Helvetica, Arial, sans-serif**
+- Tipo de fonte:<br>
+ Avenir, Helvetica, Arial, sans-serif
 
 # Instalação:
 ```bash
@@ -58,9 +50,15 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
   $ cd ./Busca_Git
 ```
 
-# Links Contato
-- **Linkedin**: https://www.linkedin.com/in/cleilson-andrade/<br>
-- **GitHub**: https://github.com/CleilsonAndrade<br>
+## 📝 Licença
 
-# Licença
-<p align="center"><a href="https://github.com/CleilsonAndrade/Busca_Git/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/002151a49ee9afae7ce4c2bce93056c9f0e108fbd14e5a7e46e7e79d87bb1071/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e63652d4d49542d626c75652e7376673f7374796c653d666c61742d737175617265" alt="licence mit" data-canonical-src="https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square" style="max-width:100%;"></a></p>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">
+  Feito com 💜 by CleilsonAndrade
+</p>
+
+<br />
+<br />
