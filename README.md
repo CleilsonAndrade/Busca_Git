@@ -33,11 +33,11 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
-#323236<br>
-#dadce7<br>
-#969696<br>
-#4091dd<br>
-#28b4d2<br>
+ #323236<br>
+ #dadce7<br>
+ #969696<br>
+ #4091dd<br>
+ #28b4d2<br>
 
 - <span id="fontes">Tipo de fonte<br></span>
  Avenir, Helvetica, Arial, sans-serif
