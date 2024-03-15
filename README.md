@@ -29,7 +29,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 - **JavaScript**
 - **axios**
 
-# 🎨 <span id="tecnologias">Design</span>
+# 🎨 <span id="design">Design</span>
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
