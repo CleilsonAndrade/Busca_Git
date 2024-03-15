@@ -11,7 +11,7 @@
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
-  * [Tipo de fonte](#fontes)
+  * [Fontes](#fontes)
 * [Instalação](#instalação)
 * [Licença](#licença)
 
@@ -39,7 +39,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
   * #4091dd<br>
   * #28b4d2<br>
 
-- <span id="fontes">Tipo de fonte<br></span>
+- <span id="fontes">Fontes<br></span>
   * Avenir, Helvetica, Arial, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
