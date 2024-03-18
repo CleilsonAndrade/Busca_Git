@@ -7,7 +7,7 @@
 # 📒 Índice
 
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos) 
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -18,7 +18,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
 
-## Features
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Requisição a API<br>
 - [x] Responsividade<br>
 - [x] Validação de usuários e dados<br>
