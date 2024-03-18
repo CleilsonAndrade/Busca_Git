@@ -5,7 +5,6 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
 * [Requisitos Funcionais](#requisitos) 
 * [Tecnologias](#tecnologias)
@@ -51,7 +50,6 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
