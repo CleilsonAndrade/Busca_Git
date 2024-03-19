@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Busca Git</h1>
-  <p>Aplicação para realizar busca de usuários no GitHub de forma simples.</p>
+  <p>Aplicação para realizar busca de usuários no GitHub de forma simples, com estudos de requisições e respostas em API.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
