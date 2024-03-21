@@ -45,7 +45,7 @@ Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.co
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Busca_Git
+  $ git clone https://github.com/CleilsonAndrade/Busca_Git.git
   $ cd ./Busca_Git
 ```
 
